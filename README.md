@@ -114,6 +114,45 @@ https://x.com/OurTinTinLand/status/1822981525354524999
   * 110mins sharing with Peak ~1000 audiences, Totally 18000 audiences,
 
 
-## Events in Mina Eco 
+## Events in Mina Eco (TBD)
 
-### d
+(TBD) as an active mina fan to join mina activities
+
+### build o1js-merkle library
+
+    (TBD)
+
+    https://github.com/plus3-labs/o1js-merkle (TBD)
+
+### Navigator Grant program
+
+    (TBD)
+
+### zkIgnite Cohort3
+
+#### built Anomix Network upgrade
+     
+     (TBD)
+
+     https://github.com/anomix-zk/anomix-network/blob/main/doc-ch3/zkIgnite-cohort3-proposal-683-Anomix-Network.md 
+
+
+### zkIgnite Cohort2
+
+#### invited & designed & built Tokenizk
+
+(TBD)
+
+     https://github.com/TokeniZK/tokenizk-finance/ 
+
+### zkIgnite Cohort1
+
+(TBD)
+
+#### built Anomix Network
+
+    (TBD)
+
+    https://github.com/anomix-zk/anomix-network/blob/main/docs/README.md
+
+### ...
