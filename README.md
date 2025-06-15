@@ -1,5 +1,14 @@
 # Journey-in-Mina
 
+During my year as the Apac DevRel at [Mina Protocol](https://x.com/MinaProtocol), it was an incredibly challenging yet rewarding journey. The work was intense but incredibly fulfilling. Every offline or online event deepened my understanding and passion for the Web3 ecosystem. 
+
+I would like to express my special gratitude to [David](https://x.com/davidandpassion) for his kind guidance. It was your trustful invitation that opened up an important chapter in my career. I am even more grateful for the team's consistent tolerance and support, which enabled me to continuously expand my professional boundaries during project challenges and cross-cultural collaborations. This experience not only allowed me to make breakthroughs in cutting-edge technologies such as zero-knowledge proof and decentralized application architecture, but also led to a leapfrog growth in the establishment of a global network of Web3 connections.
+
+在[Mina Protocol](https://x.com/MinaProtocol)担任Apac DevRel的这一年，是一段充满挑战与成长的旅程。工作强度大却无比充实，每一场线下/线上活动都加深了我对Web3生态的理解与热爱。
+
+特别感谢[David](https://x.com/davidandpassion)的知遇之恩，是您的信任邀请开启了我职业生涯的重要篇章；更感恩团队始终如一的包容与支持，让我在项目攻坚和跨文化协作中不断提升专业边界。这段经历不仅让我在零知识证明、去中心化应用架构等前沿技术领域实现突破，更在Web3全球人脉网络的构建上获得跨越式成长。
+
+
 ## MileStones as Mina APAC DevRel
 
 ### zkConnect @ShangHai：探索 zk 技术的应用和未来
@@ -46,7 +55,7 @@ The certification program is intended to be a Computer Based Training (CBT) prog
 https://x.com/shanhaiwoo/status/1854079766498095430
 
 * **Achievement**:
-  * 90-mins workshop on 《Build ZkApps on Mina》
+  * 90-mins offline workshop on 《Build ZkApps on Mina》
   * connect famous zk teams, like [SECBIT Labs](https://secbit.io/) & [Invisible Garden](https://x.com/invisiblgarden) & [Social layer](https://x.com/SocialLayer_im/), etc.
 
 ### HK SmartCon 2024
