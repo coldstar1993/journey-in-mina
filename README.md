@@ -99,6 +99,8 @@ https://lu.ma/xtytmy9q
 
 https://www.ethshenzhen.org/
 
+speech record: https://www.youtube.com/watch?v=VTDbHsdQ5f4
+
 * **Achievement**:
   * Offline Workshop: 《Build zkApps with O1js on Mina》
   * >100 audiences offline
